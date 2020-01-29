@@ -1,0 +1,1 @@
+This repository contains the projects done as a part of done as a part of the course [Practice Java by Building Projects](https://www.udemy.com/course/practice-java-by-building-projects/) taught by Tim Short on Udemy
