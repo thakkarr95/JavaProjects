@@ -19,13 +19,10 @@ public class StudentDatabaseApp {
         // Create n number of new students
 
         for (int n = 0; n < numOfStudents; n++) {
-
             students[n] = new Student();
             students[n].enroll();
             students[n].payTuition();
             System.out.println(students[n].showInfo());
-
         }
-
     }
 }
